@@ -12,4 +12,4 @@ export const addToCart = function (product, quantity) {
 const totalPrice = 237;
 const totalQuantity = 15;
 
-export {totalPrice, totalQuantity};
+export {totalPrice, totalQuantity as tq};
